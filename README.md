@@ -1,2 +1,2 @@
-# RPS
-zuri task
+# Rock, Paper, Scissors
+a zuri traning task
