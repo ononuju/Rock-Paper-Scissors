@@ -16,7 +16,7 @@ while True:
             \nWould you like to restart? y/n: ")
         if user_action != 'y':
             break
-
+# conditions
     if user_action == 'R':
         if cpu_action == 's':
             print('Rock smashes scissors! Yon win!')
